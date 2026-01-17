@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm T Logesh Perumal 👋
 
 - I am a **Computer Science and Engineering** student specializing in **Gaming Technology**.Currently, I am gaining experience as a **Game Programmer Intern** at Karma Play Academy, working on Unity-based projects like "Aquaworld".
